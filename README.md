@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Radoslav</h1>
 
-<h4 align="center"><em> Currently studying Computer Science at Sofia University 👨‍🎓 </em></h4>
+<h4 align="center"><em> Currently studying Computer Science at Sofia University </em>👨‍🎓 </h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
